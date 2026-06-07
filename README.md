@@ -1,8 +1,9 @@
+![Uploading ChromieSquiggleSquiggledaoGIF.gif…]()
 # Healthcare Management System🏥
 
 ## Overview📖
 
-The Healthcare Management System is a comprehensive digital platform designed to streamline healthcare operations by integrating patient management, appointment scheduling, electronic medical records (EMR), billing, reporting, and healthcare analytics into a single system. The platform aims to improve operational efficiency, enhance patient care, reduce administrative workload, and facilitate secure communication between healthcare providers and patients.
+The Healthcare Management System is a comprehensive digital platform designed to streamline healthcare operations by integrating patient management, appointment scheduling, electronic medical records (EMR), billing, reporting, and healthcare analytics into a single system. The platform aims to improve operational efficiency, enhance patient care, reduchttps://media.tenor.com/wq_zsEYs4_wAAAAS/chromie-squiggle-squiggledao.gife administrative workload, and facilitate secure communication between healthcare providers and patients.
 
 This system enables healthcare professionals to manage patient information efficiently while ensuring compliance with healthcare standards and data privacy regulations. The application provides a user-friendly interface for doctors, nurses, administrators, and patients, making healthcare services more accessible and organized.
 
