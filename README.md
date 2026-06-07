@@ -1,4 +1,4 @@
-![Uploading ChromieSquiggleSquiggledaoGIF.gif…]()
+
 # Healthcare Management System🏥
 
 ## Overview📖
