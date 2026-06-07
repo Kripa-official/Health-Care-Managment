@@ -1,4 +1,4 @@
-
+<img width="498" height="399" alt="PulseMedicineGIF" src="https://github.com/user-attachments/assets/814db854-0c3c-4f1e-9f22-517146ce75a8" />
 # Healthcare Management System🏥
 
 ## Overview📖
