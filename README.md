@@ -1,6 +1,3 @@
-
-
-
 # Healthcare Management System🏥
 
 ## Overview📖
